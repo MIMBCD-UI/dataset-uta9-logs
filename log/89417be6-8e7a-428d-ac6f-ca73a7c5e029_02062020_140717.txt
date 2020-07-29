@@ -1,0 +1,161 @@
+
+=============Study internalId===============
+f15ecd
+
+=============Study===============
+89417be6-8e7a-428d-ac6f-ca73a7c5e029
+
+=============Dicom Studies Present===============
+4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa/file   08/01/2018   Modality: MG|CC|L
+4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312/file   08/01/2018   Modality: MG|CC|R
+0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921/file   08/01/2018   Modality: MG|MLO|L
+345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e/file   08/01/2018   Modality: MG|MLO|R
+b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8/file   20/03/2019   Modality: MG|CC|L
+59436310-8624c412-a5d98647-16378338-5e762143/file   20/03/2019   Modality: MG|CC|R
+dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc/file   20/03/2019   Modality: MG|MLO|L
+18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6/file   20/03/2019   Modality: MG|MLO|R
+
+=============Study Date===============
+20/03/2019
+
+=============Time Begin===============
+15:03:24
+
+=============Actions List=============
+15:03:24 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+15:06:02 | Action On Image -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa - Zoom
+15:06:03 | Action On Image -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312 - Zoom
+15:06:05 | Temporal Comparison started
+15:06:05 | Layout = 1x2
+         | Automation is Activated
+Loading images to comparison
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+Loading images to comparison
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+15:06:10 | Action On Image -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc - Zoom
+Loading images to comparison
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+Loading images to comparison
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+Loading images to comparison
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+Loading images to comparison
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6
+Loading images to comparison
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+Loading images to comparison
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+Loading images to comparison
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+Loading images to comparison
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Temporal Comparison finnished
+15:06:24 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+15:06:24 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+15:06:26 | Action On Image -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312 - Pan
+15:06:28 | Action On Image -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa - Pan
+15:06:29 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+15:06:30 | Action On Image -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e - Zoom
+15:06:32 | Action On Image -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e - Pan
+15:06:33 | Action On Image -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921 - Zoom
+15:06:35 | Action On Image -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921 - Pan
+15:06:35 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+15:06:37 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+15:06:38 | Action On Image -> 59436310-8624c412-a5d98647-16378338-5e762143 - Zoom
+15:06:40 | Action On Image -> 59436310-8624c412-a5d98647-16378338-5e762143 - Pan
+15:06:41 | Action On Image -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8 - Zoom
+15:06:43 | Action On Image -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8 - Pan
+15:06:44 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+15:06:45 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+15:06:46 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+15:06:48 | Action On Image -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6 - Zoom
+15:06:48 | Action On ALL Images open - WW/WC
+15:06:50 | Action On ALL Images open - WW/WC
+15:06:52 | Action On Image -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6 - Pan
+15:06:54 | Action On Image -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc - Pan
+15:06:56 | Temporal Comparison started
+15:06:56 | Layout = 1x2
+         | Automation is Activated
+Loading images to comparison
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+Loading images to comparison
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+Loading images to comparison
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6
+Loading images to comparison
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+Loading images to comparison
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6
+Loading images to comparison
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+Loading images to comparison
+         | Image Open -> 59436310-8624c412-a5d98647-16378338-5e762143
+         | Image Open -> 4b9d2642-85c41403-d527ebe9-2030c21d-b8fce312
+Loading images to comparison
+         | Image Open -> b2cb4fdc-c9ebd874-2a454c62-9c4a0e9e-318967e8
+         | Image Open -> 4670149c-9cf6d146-12c9eadf-6c36b180-b879a0aa
+Loading images to comparison
+         | Image Open -> 345b7003-cf5e8f5c-55d152e8-24cc7cef-394e402e
+         | Image Open -> 18237507-cdce36ca-0b6cafd2-a6bc3cab-fef3f7b6
+Loading images to comparison
+         | Image Open -> 0ad7fcf7-3d9d41d7-2e731c92-ad7f324c-3722e921
+         | Image Open -> dde4dc86-09e26425-8fba22ec-6913fe58-183c02fc
+
+=============Time End===============
+15:07:17
+
+=============End Counter===============
+
+WW/WC - 2
+Invert - 0
+Zoom - 8
+Pan - 8
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 2
+Save - 0

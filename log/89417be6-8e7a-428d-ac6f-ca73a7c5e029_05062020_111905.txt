@@ -1,0 +1,30 @@
+
+=============Study internalId===============
+f15ecd
+
+=============Study===============
+89417be6-8e7a-428d-ac6f-ca73a7c5e029
+
+=============Study Date===============
+08/01/2018
+
+=============Time Begin===============
+12:18:55
+
+=============Actions List=============
+
+=============Time End===============
+12:19:06
+
+=============End Counter===============
+
+WW/WC - 0
+Invert - 0
+Zoom - 0
+Pan - 0
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 0
+Save - 0
