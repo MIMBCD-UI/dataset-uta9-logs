@@ -1,0 +1,116 @@
+
+=============Study internalId===============
+dca23c
+
+=============Study===============
+70a15c33-e38e-4270-b37f-a8aa1dff6fdf
+
+=============Dicom Studies Present===============
+b373727c-0855b96f-aa38b69f-4020129f-fb0252ed/file   15/12/2017   Modality: MG|CC|L
+c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068/file   15/12/2017   Modality: MG|CC|R
+60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979/file   15/12/2017   Modality: MG|MLO|L
+acff29fe-46581788-9daacf05-aba25f1f-cd89c588/file   15/12/2017   Modality: MG|MLO|R
+76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54/file   14/09/2016   Modality: MG|CC|L
+818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544/file   14/09/2016   Modality: MG|CC|R
+984bdfd5-1c8a2283-606108ed-2d0ceb74-20bd6f17/file   14/09/2016   Modality: MG|MLO|L
+ceb2e228-bf8e0b46-580a7646-eaa3eb03-9c029113/file   14/09/2016   Modality: MG|MLO|R
+d0cbdd06-2657fd97-1c802bf5-ad8241f5-14202ce7/file   27/12/2017   Modality: US
+1626b730-6f5b1562-61d4b7f2-a3eeaae7-50514193/file   27/12/2017   Modality: US
+
+=============Study Date===============
+27/12/2017
+
+=============Time Begin===============
+19:39:06
+
+=============Actions List=============
+19:39:06 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+19:39:20 | Layout = 1x1
+         | Automation is Activated
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+19:39:26 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:39:28 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:30 | Action On ALL Images open - WW/WC
+19:39:34 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:34 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:36 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:39:37 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:37 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:38 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:39 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:41 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:41 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:41 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:44 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:44 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:46 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:39:48 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:39:50 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:50 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:39:52 | Action On ALL Images open - Invert
+19:39:54 | Action On ALL Images open - WW/WC
+19:40:08 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:40:10 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+19:40:21 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+19:40:23 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:24 | Action On ALL Images open - WW/WC
+19:40:26 | Action On ALL Images open - Invert
+19:40:29 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:30 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:30 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:31 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:32 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:32 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:32 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:35 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+19:40:39 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:41 | Action On ALL Images open - Invert
+19:40:45 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+19:40:46 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:46 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+19:40:53 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+19:40:58 | Layout = 1x1
+         | Automation is Activated
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+19:41:16 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:16 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:17 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:18 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:19 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:20 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:21 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:21 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:21 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:29 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:31 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Probe
+19:41:37 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:37 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:39 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Zoom
+19:41:39 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:44 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:45 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+19:41:46 | Action On Image -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed - Pan
+         | Image Saved
+
+=============Time End===============
+19:41:53
+
+=============End Counter===============
+
+WW/WC - 3
+Invert - 3
+Zoom - 15
+Pan - 36
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 1
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 0
+Save - 1
