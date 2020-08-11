@@ -1,0 +1,60 @@
+
+=============Study internalId===============
+55cdb0
+
+=============Study===============
+71a90290-c9b6-42be-ae8b-d3d90915be52
+
+=============Dicom Studies Present===============
+714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file   21/11/2013   Modality: MG|CC|L
+70e527e9-63d36eae-2aab1b3c-06b31734-a2508b57/file   21/11/2013   Modality: MG|MLO|L
+cba5c36c-7766a417-76885e0d-d98be9db-81519c54/file   21/11/2013   Modality: MG|MLO|R
+8b89a22c-e41d12ec-de6e3343-bf8bb7dd-14a90adf/file   21/11/2013   Modality: MG|CC|R
+c6080112-046a4b51-8b285de2-d248b7e8-0aa3c746/file   12/07/2017   Modality: MG|CC|L
+a7c1015d-47f41f8d-2fc3cf2a-27728770-2741105b/file   12/07/2017   Modality: MG|CC|R
+3f2d164e-90721142-d2b8861f-13144e25-b4838aab/file   12/07/2017   Modality: MG|MLO|L
+e5de9abd-341ea739-aabf9bbc-0811bbf6-5339619a/file   12/07/2017   Modality: MG|MLO|R
+c72be7f1-8a9faf69-89c01203-aa57204b-1a652ca5/file   12/07/2017   Modality: US
+
+=============Study Date===============
+12/07/2017
+
+=============Time Begin===============
+19:00:40
+
+=============Actions List=============
+19:00:41 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 8b89a22c-e41d12ec-de6e3343-bf8bb7dd-14a90adf
+         | Image Open -> 714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45
+19:09:55 | Temporal Comparison started
+19:09:55 | Layout = 1x2
+         | Automation is Activated
+Loading images to comparison
+         | Image Open -> 714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45
+         | Image Open -> c6080112-046a4b51-8b285de2-d248b7e8-0aa3c746
+Loading images to comparison
+         | Image Open -> 70e527e9-63d36eae-2aab1b3c-06b31734-a2508b57
+         | Image Open -> 3f2d164e-90721142-d2b8861f-13144e25-b4838aab
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+Image Open ->wadouri://breastscreening.isr.tecnico.ulisboa.pt:8451/instances/714377b8-bc958b42-c5b0d2b2-1c01a8e1-bcfa1d45/file
+
+=============Time End===============
+19:12:34
+
+=============End Counter===============
+
+WW/WC - 0
+Invert - 0
+Zoom - 0
+Pan - 0
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 1
+Save - 0

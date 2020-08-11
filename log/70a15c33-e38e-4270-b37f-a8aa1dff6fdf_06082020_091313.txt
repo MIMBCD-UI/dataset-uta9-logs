@@ -1,0 +1,62 @@
+
+=============Study internalId===============
+dca23c
+
+=============Study===============
+70a15c33-e38e-4270-b37f-a8aa1dff6fdf
+
+=============Dicom Studies Present===============
+b373727c-0855b96f-aa38b69f-4020129f-fb0252ed/file   15/12/2017   Modality: MG|CC|L
+c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068/file   15/12/2017   Modality: MG|CC|R
+60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979/file   15/12/2017   Modality: MG|MLO|L
+acff29fe-46581788-9daacf05-aba25f1f-cd89c588/file   15/12/2017   Modality: MG|MLO|R
+76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54/file   14/09/2016   Modality: MG|CC|L
+818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544/file   14/09/2016   Modality: MG|CC|R
+984bdfd5-1c8a2283-606108ed-2d0ceb74-20bd6f17/file   14/09/2016   Modality: MG|MLO|L
+ceb2e228-bf8e0b46-580a7646-eaa3eb03-9c029113/file   14/09/2016   Modality: MG|MLO|R
+d0cbdd06-2657fd97-1c802bf5-ad8241f5-14202ce7/file   27/12/2017   Modality: US
+1626b730-6f5b1562-61d4b7f2-a3eeaae7-50514193/file   27/12/2017   Modality: US
+
+=============Study Date===============
+27/12/2017
+
+=============Time Begin===============
+10:06:47
+
+=============Actions List=============
+10:06:47 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+10:12:59 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+10:13:01 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> acff29fe-46581788-9daacf05-aba25f1f-cd89c588
+         | Image Open -> 60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979
+10:13:02 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> acff29fe-46581788-9daacf05-aba25f1f-cd89c588
+         | Image Open -> 60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979
+10:13:04 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544
+         | Image Open -> 76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54
+
+=============Time End===============
+10:13:13
+
+=============End Counter===============
+
+WW/WC - 0
+Invert - 0
+Zoom - 0
+Pan - 0
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 0
+Save - 0

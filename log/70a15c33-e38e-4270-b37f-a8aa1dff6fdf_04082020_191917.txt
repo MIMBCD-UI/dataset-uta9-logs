@@ -1,0 +1,104 @@
+
+=============Study internalId===============
+dca23c
+
+=============Study===============
+70a15c33-e38e-4270-b37f-a8aa1dff6fdf
+
+=============Dicom Studies Present===============
+b373727c-0855b96f-aa38b69f-4020129f-fb0252ed/file   15/12/2017   Modality: MG|CC|L
+c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068/file   15/12/2017   Modality: MG|CC|R
+60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979/file   15/12/2017   Modality: MG|MLO|L
+acff29fe-46581788-9daacf05-aba25f1f-cd89c588/file   15/12/2017   Modality: MG|MLO|R
+76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54/file   14/09/2016   Modality: MG|CC|L
+818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544/file   14/09/2016   Modality: MG|CC|R
+984bdfd5-1c8a2283-606108ed-2d0ceb74-20bd6f17/file   14/09/2016   Modality: MG|MLO|L
+ceb2e228-bf8e0b46-580a7646-eaa3eb03-9c029113/file   14/09/2016   Modality: MG|MLO|R
+d0cbdd06-2657fd97-1c802bf5-ad8241f5-14202ce7/file   27/12/2017   Modality: US
+1626b730-6f5b1562-61d4b7f2-a3eeaae7-50514193/file   27/12/2017   Modality: US
+
+=============Study Date===============
+27/12/2017
+
+=============Time Begin===============
+20:01:54
+
+=============Actions List=============
+20:01:54 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+20:08:33 | Layout = 1x1
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+20:08:59 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+20:09:02 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+20:09:02 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+20:09:04 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+20:09:10 | Action On ALL Images open - WW/WC
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+20:10:07 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+20:10:27 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> acff29fe-46581788-9daacf05-aba25f1f-cd89c588
+         | Image Open -> 60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979
+20:10:52 | Automation is Deactivated
+20:11:01 | Action On Image -> acff29fe-46581788-9daacf05-aba25f1f-cd89c588 - WW/WC
+20:11:18 | Automation is Activated
+20:11:26 | Action On ALL Images open - WW/WC
+20:12:48 | Layout = 2x2
+         | Automation is Activated
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+         | Image Open -> acff29fe-46581788-9daacf05-aba25f1f-cd89c588
+         | Image Open -> 60f3159e-4c6b91a7-a4595acb-11ccf003-e6815979
+20:13:41 | Layout = 2x2
+         | Automation is Activated
+         | Image Open -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544
+         | Image Open -> 76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54
+         | Image Open -> ceb2e228-bf8e0b46-580a7646-eaa3eb03-9c029113
+         | Image Open -> 984bdfd5-1c8a2283-606108ed-2d0ceb74-20bd6f17
+20:14:23 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544
+         | Image Open -> 76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54
+20:14:28 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544
+         | Image Open -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068
+20:15:02 | Action On ALL Images open - WW/WC
+20:15:10 | Automation is Deactivated
+20:15:13 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - WW/WC
+20:15:32 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+20:15:36 | Automation is Activated
+20:15:40 | Action On Image -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544 - Zoom
+20:15:43 | Action On Image -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544 - Pan
+20:15:48 | Action On Image -> 818ebeb2-e726c0c5-ebd76f6d-132c30f1-314ba544 - Zoom
+20:15:53 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Zoom
+20:15:56 | Action On Image -> c8f025d5-7ab3c45e-894e80b6-91f5a4d4-d4172068 - Pan
+20:16:52 | Temporal Comparison started
+20:16:52 | Layout = 1x2
+         | Automation is Activated
+Loading images to comparison
+         | Image Open -> b373727c-0855b96f-aa38b69f-4020129f-fb0252ed
+         | Image Open -> 76b200c6-836606ad-443fd3f1-2b12168d-eacb6d54
+
+=============Time End===============
+20:19:16
+
+=============End Counter===============
+
+WW/WC - 5
+Invert - 0
+Zoom - 5
+Pan - 5
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 4 | At the end the tool was Activated
+Temporal Comparison - 1
+Save - 0

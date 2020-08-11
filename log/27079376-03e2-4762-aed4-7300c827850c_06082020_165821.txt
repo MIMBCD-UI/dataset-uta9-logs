@@ -1,0 +1,56 @@
+
+=============Study internalId===============
+01990e
+
+=============Study===============
+27079376-03e2-4762-aed4-7300c827850c
+
+=============Dicom Studies Present===============
+0af343d2-59724dad-3d77af00-472cbc11-d5e211ea/file   13/11/2013   Modality: MG|MLO|L
+52bcf6bd-dcec3f44-6d8ae608-ca5d7b91-1c72aec6/file   13/11/2013   Modality: MG|MLO|R
+3a25ead7-ebc44f84-03f9adbc-426f857b-2ac617e6/file   13/11/2013   Modality: MG|CC|R
+d7336cfb-969041e1-4c43505a-80bd9229-e0f4ef84/file   13/11/2013   Modality: MG|CC|L
+e07a16ad-e43da543-2826c894-aabc88b0-f561e41f/file   03/01/2019   Modality: MG|CC|L
+cb818b96-3ead909f-e6a108fc-9d0490f7-e48a5e29/file   03/01/2019   Modality: MG|CC|R
+6bda5dc0-fc915a2b-d0b03e0b-46d5fd2c-f0dd3411/file   03/01/2019   Modality: MG|MLO|R
+736aba7b-24468083-245db279-bd91350a-a3ff46ff/file   03/01/2019   Modality: MG|MLO|L
+04968331-e1bdcaa2-04580ede-7bf2be24-efa6cd2d/file   03/01/2019   Modality: US
+
+=============Study Date===============
+03/01/2019
+
+=============Time Begin===============
+17:54:57
+
+=============Actions List=============
+17:54:57 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 52bcf6bd-dcec3f44-6d8ae608-ca5d7b91-1c72aec6
+         | Image Open -> 0af343d2-59724dad-3d77af00-472cbc11-d5e211ea
+17:55:28 | Layout = 1x2
+         | Automation is Activated
+         | Image Open -> 52bcf6bd-dcec3f44-6d8ae608-ca5d7b91-1c72aec6
+         | Image Open -> 6bda5dc0-fc915a2b-d0b03e0b-46d5fd2c-f0dd3411
+17:56:14 | Temporal Comparison started
+17:56:14 | Layout = 1x2
+         | Automation is Activated
+Loading images to comparison
+         | Image Open -> e07a16ad-e43da543-2826c894-aabc88b0-f561e41f
+         | Image Open -> d7336cfb-969041e1-4c43505a-80bd9229-e0f4ef84
+17:57:07 | Action On ALL Images open - WW/WC
+
+=============Time End===============
+17:58:21
+
+=============End Counter===============
+
+WW/WC - 1
+Invert - 0
+Zoom - 0
+Pan - 0
+Stack Scroll - 0
+Freehand ROI draw - 0
+Probe - 0
+Automated - 0 | At the end the tool was Activated
+Temporal Comparison - 1
+Save - 0
